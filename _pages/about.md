@@ -31,5 +31,3 @@ My research interests are centered around the following themes:
 My research is currently supported by the NSF grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896">DMS-2404896</a> and a <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees">Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
 I obtained my PhD at the Humboldt University in Berlin and the Berlin Mathematical School, Germany, in 2012. Before arriving at VCU, I was at Rutgers University, USA; the University of Georgia, USA; the Fields Institute, Canada; the University of Utah, USA; and the Leibniz University in Hannover, Germany.
-
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
