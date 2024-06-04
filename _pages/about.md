@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href="https://math.vcu.edu">Department of Mathematics and Applied Mathematics</a>, <a href="https://www.vcu.edu">Virginia Commonwealth University</a>
+subtitle: Assistant Professor <br> 
+<a href="https://math.vcu.edu">Department of Mathematics and Applied Mathematics</a> <br>
+<a href="https://www.vcu.edu">Virginia Commonwealth University</a>
 
 profile:
   align: right
@@ -20,4 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 Write your biography here. Tell the world about yourself. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
