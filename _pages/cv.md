@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Tarasca-CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. 
+description: Here is my CV.
 toc:
   sidebar: left
 ---
