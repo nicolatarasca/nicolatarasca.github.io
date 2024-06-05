@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, 
+subtitle: Assistant Professor, <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a>, <a href='https://www.vcu.edu'>Virginia Commonwealth University</a>
 
 profile:
   align: right
@@ -28,6 +28,6 @@ My research interests are centered around the following themes:
  
   modern Schubert calculus
 
-My research is currently supported by the NSF grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896">DMS-2404896</a> and a <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees">Travel Support for Mathematicians gift</a> from the Simons Foundation.
+My research is currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a> and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees'>Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
 I obtained my PhD at the Humboldt University in Berlin and the Berlin Mathematical School, Germany, in 2012. Before arriving at VCU, I was at Rutgers University, USA, the University of Georgia, USA, the Fields Institute, Canada, the University of Utah, USA, and the Leibniz University in Hannover, Germany.
