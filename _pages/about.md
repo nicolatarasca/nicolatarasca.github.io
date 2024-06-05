@@ -13,7 +13,7 @@ profile:
     <p>1015 Floyd Avenue Box 842014</p>
     <p>Richmond, VA 23284-2014, USA</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
