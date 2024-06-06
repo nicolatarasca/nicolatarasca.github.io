@@ -2,11 +2,7 @@
   "basics": {
     "name": "Nicola Tarasca",
     "label": "Assistant Professor",
-    #"image": "",
     "email": "tarascan@vcu.edu",
-    #"phone": "",
-    #"url": "",
-    #"summary": "",
     "location": {
       "address": "1015 Floyd Avenue Box 842014",
       "postalCode": "VA 23284-2014",
