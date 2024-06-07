@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 My research interests focus on:
 
-the geometry of algebraic curves, abelian varieties, and their moduli spaces
+- the geometry of algebraic curves, abelian varieties, and their moduli spaces
   
 - quantum invariants of knots and 3-manifolds
   
