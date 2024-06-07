@@ -20,13 +20,13 @@ social: true # includes social icons at the bottom of the page
 
 My research interests are centered around the following themes:
 
-   the geometry of algebraic curves, abelian varieties, and their moduli spaces
+the geometry of algebraic curves, abelian varieties, and their moduli spaces
 
-   quantum invariants of knots and 3-manifolds
+quantum invariants of knots and 3-manifolds
 
-   geometric realizations of vertex algebras
+geometric realizations of vertex algebras
 
-   modern Schubert calculus.
+modern Schubert calculus.
 
 My research is currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a> and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees'>Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
