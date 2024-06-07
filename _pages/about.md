@@ -17,16 +17,3 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
-My research interests focus on:
-
-the geometry of algebraic curves, abelian varieties, and their moduli spaces
-
-quantum invariants of knots and 3-manifolds
-
-geometric realizations of vertex algebras
-
-modern Schubert calculus.
-
-My work is currently supported by the NSF grant 
