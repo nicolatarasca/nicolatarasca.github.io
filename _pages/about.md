@@ -29,4 +29,4 @@ My research interests focus on:
   
 - modern Schubert calculus.
  
-My work is currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a>
+My work is currently supported by the NSF grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896">DMS-2404896</a> 
