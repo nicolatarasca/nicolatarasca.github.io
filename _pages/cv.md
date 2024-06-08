@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Tarasca-CV.pdf
-description: Here is my CV.
+description: 
 toc:
   sidebar: left
 ---
