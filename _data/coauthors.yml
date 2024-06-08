@@ -1,3 +1,23 @@
 "moore":
   - firstname: ["Allison"]
     url: https://math.vcu.edu/directory/moore.html
+
+"cavalieri":
+  - firstname: ["Renzo"]
+    url: http://www.math.colostate.edu/~renzo/
+
+"farkas":
+  - firstname: ["Gavril"]
+    url: http://www-irm.mathematik.hu-berlin.de/~farkas/
+
+"anderson":
+  - firstname: ["Dave"]
+    url: https://people.math.osu.edu/anderson.2804/
+
+"chen":
+  - firstname: ["Dawei"]
+    url: https://www2.bc.edu/dawei-chen/
+
+"chen":
+  - firstname: ["Linda"]
+    url: http://www.lindachen.info/
