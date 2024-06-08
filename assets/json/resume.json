@@ -7,15 +7,5 @@
     "address": "1015 Floyd Avenue Box 842014, Richmond, VA 23284-2014, USA",
     "email": "tarascan@vcu.edu",
     "webpage": "https://nicolatarasca.github.io"
-  },
-    "interests":  {
-      "name": "Mathematics",
-      #"icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Algebraic Geometry",
-        "Geometry and Topology",
-        "Quantum Algebra",
-        "Combinatorics"
-      ]
-    }
+  }
 }
