@@ -8,10 +8,9 @@
     "email": "tarascan@vcu.edu",
     "webpage": "https://nicolatarasca.github.io"
   },
-    "interests":
-    {
+    "interests":  {
       "name": "Mathematics",
-      "icon": "fa-solid fa-hashtag",
+      #"icon": "fa-solid fa-hashtag",
       "keywords": [
         "Algebraic Geometry",
         "Geometry and Topology",
