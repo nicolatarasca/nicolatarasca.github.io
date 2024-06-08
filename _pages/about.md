@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, 
-subsubtitle: <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a>, 
+subtitle: Assistant Professor 
+subsubtitle: <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a> 
 subsubsubtitle: <a href='https://www.vcu.edu'>Virginia Commonwealth University</a>
 
 profile:
