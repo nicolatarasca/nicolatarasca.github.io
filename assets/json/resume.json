@@ -2,6 +2,8 @@
   "basics": {
     "name": "Nicola Tarasca",
     "title": "Assistant Professor",
-    "email": "tarascan@vcu.edu"
+    "email": "tarascan@vcu.edu",
+    "institution": "Virginia Commonwealth University",
+    "department": "Mathematics and Applied Mathematics"
   }
 }
