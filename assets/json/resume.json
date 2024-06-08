@@ -8,7 +8,7 @@
     "email": "tarascan@vcu.edu",
     "webpage": "https://nicolatarasca.github.io"
   },
-    "interests": [
+    "interests":
     {
       "name": "Mathematics",
       "icon": "fa-solid fa-hashtag",
@@ -19,5 +19,4 @@
         "Combinatorics"
       ]
     }
-  ]
 }
