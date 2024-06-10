@@ -7,5 +7,17 @@
     "address": "1015 Floyd Avenue Box 842014, Richmond, VA 23284-2014, USA",
     "email": "tarascan@vcu.edu",
     "webpage": "https://nicolatarasca.github.io"
-  }
+  },
+  "education": [{
+    "institution": "University",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }]
 }
