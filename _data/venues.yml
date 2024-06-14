@@ -1,3 +1,2 @@
 "Notices AMS":
-  color: "#009f36"
-  global-hover-text-color: #{$white-color}
+  color: "#00369f"
