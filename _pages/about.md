@@ -44,13 +44,13 @@ Events
 
 I coorganize the following events:
 
-- the Richmond Geometry Meeting<br/>
+- the Richmond Geometry Meeting<br/><br/>
   an annual event since 2021<br/>
   the <a href='https://math.vcu.edu/rgm/'>2024 edition</a> is supported by NSF-DMS 2349810<br/>
   the 2023 edition was supported by NSF-DMS 2240741
 
-- the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
+- the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/><br/>
   the 2024 edition of the MAAGC workshop will be supported by NSF DMS-2408985
 
-- the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
+- the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/><br/>
   A math camp and mathematics education research study designed for local middle school students
