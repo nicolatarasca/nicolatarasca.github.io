@@ -30,10 +30,22 @@ Research interests:
 
 Research currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a> and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees'>Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
-<h2>seminars</h2>
+seminars
 
-— The <a href='https://researchseminars.org/seminar/vcugeomandtop'>Geometry Seminar</a> at VCU
+I coorganize the following seminar series (most talks are now live-streamed online):
 
-— The Student Geometry Seminar at VCU
+- the <a href='https://researchseminars.org/seminar/vcugeomandtop'>Geometry Seminar</a> at VCU
 
-— The <a href='https://researchseminars.org/seminar/VCUcolloq'>Math Colloquium Series</a> at VCU
+- the Student Geometry Seminar at VCU
+
+- the <a href='https://researchseminars.org/seminar/VCUcolloq'>Math Colloquium Series</a> at VCU
+
+events
+
+I coorganize the following events:
+
+- the Richmond Geometry Meeting
+
+- the Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)
+
+- the Geometry Summer Camp
