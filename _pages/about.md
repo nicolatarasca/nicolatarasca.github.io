@@ -44,7 +44,10 @@ Events
 
 I coorganize the following events:
 
-- the Richmond Geometry Meeting</a>
+- the Richmond Geometry Meeting
+  an annual event since 2021
+  the <a href='https://math.vcu.edu/rgm/'>2024 edition</a> is supported by NSF-DMS 2349810
+  the 2023 edition was supported by NSF-DMS 2240741
 
 - the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a>
 
