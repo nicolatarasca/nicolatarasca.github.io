@@ -13,4 +13,8 @@ nav_order: 4
 
 - Incidence varieties of algebraic curves and canonical divisors<br/>
   Humboldt Algebraic Geometry Seminar, June 2022<br/>
-  <a href=''>notes<>
+  <a href='assets/pdf/lectures/Incidence_Lecture@HU_fullnotes.pdf'>notes</a>
+
+- Geometry of VOAs on moduli of curves<br/>
+  Seminario Nacional de Geometría Algebraica en Línea, Mexico, May 2022<br/>
+  <a href='https://bluejeans.com/playback/s/OWnR1julHdmv6A0cikU2xAu1GNzKxIpXI11eepZxND6oYHpuQH32sxhzqNxLZq5m'>video</a>, <a href=''>notes</a>
