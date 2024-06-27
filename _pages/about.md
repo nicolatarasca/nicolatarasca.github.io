@@ -50,7 +50,7 @@ I coorganize the following events:
   the 2023 edition was supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>
 
 - the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
-  the 2024 edition of the MAAGC workshop will be supported by NSF grant DMS-2408985
+  the MAAGC workshop from 2024-2026 is supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408985&HistoricalAwards=false'>DMS-2408985</a>
 
 - the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
   A math camp and mathematics education research study designed for local middle school students
