@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 
 - geometric realizations of vertex algebras
 
-- modern Schubert calculus.
+- modern Schubert calculus
 
 Research currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a> and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees'>Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
