@@ -7,8 +7,5 @@ nav: true
 nav_order: 4
 ---
 
-<div class="publications">
-
-{% events %}
-
-</div>
+- Richmond Geometry Meeting<br/>
+  August 2024,supported by NSF-DMS 2349810
