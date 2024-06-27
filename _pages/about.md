@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<b>Research interests</b>
+<b>Research Interests</b>
 
 - the geometry of algebraic curves, abelian varieties, and their moduli spaces
 
@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
 
 Research currently supported by the NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404896'>DMS-2404896</a> and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/?tab=awardees'>Travel Support for Mathematicians gift</a> from the Simons Foundation.
 
-Seminars
+<b>Seminars</b>
 
 I coorganize the following seminar series (most talks are now live-streamed online):
 
@@ -40,7 +40,7 @@ I coorganize the following seminar series (most talks are now live-streamed onli
 
 - the <a href='https://researchseminars.org/seminar/VCUcolloq'>Math Colloquium Series</a> at VCU
 
-Events
+<b>Events</b>
 
 I coorganize the following events:
 
