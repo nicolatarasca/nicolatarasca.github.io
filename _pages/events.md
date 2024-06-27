@@ -24,3 +24,9 @@ nav_order: 4
 - <a href='http://www.ams.org/meetings/sectional/2290_program_ss9.html#title'>AMS Special Session on Vertex Algebras and Geometry</a><br/>
   University of Virginia, Mar. 11-12, 2022<br/>
   cancelled by AMS due to COVID-19
+
+- <a href='https://sites.google.com/vcu.edu/gtmp/festival/rgf-2021?authuser=0'>Richmond Geometry Festival 2021</a><br/>
+  inaugural edition, June 2021, virtually
+
+- <a href='http://jointmathematicsmeetings.org/meetings/national/jmm2021/2247_program_ss23.html#title'>Special Session on Quantum Algebra and Geometry at the Joint Mathematics Meetings</a><br/>
+  virtual meeting, Jan. 6-9, 2021
