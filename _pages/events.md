@@ -9,7 +9,7 @@ nav_order: 4
 
 - <a href='https://math.vcu.edu/rgm/'>Richmond Geometry Meeting 2024</a><br/>
   VCU, August 2024<br/>
-  supported by NSF grant DMS-2349810
+  supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a>
 
 - <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics Workshop</a><br/>
   VCU, December 2023
