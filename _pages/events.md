@@ -30,3 +30,19 @@ nav_order: 4
 
 - <a href='http://jointmathematicsmeetings.org/meetings/national/jmm2021/2247_program_ss23.html#title'>Special Session on Quantum Algebra and Geometry at the Joint Mathematics Meetings</a><br/>
   virtual meeting, Jan. 6-9, 2021
+
+- <a href='http://www.ams.org/meetings/sectional/2273_program_ss24.html#title'>AMS Special Session on Quantum Algebra and Geometry</a><br/>
+  University of Virginia, Mar. 13-15, 2020
+  rescheduled by AMS due to COVID-19
+
+- <a href='http://www.ams.org/meetings/sectional/2259_program_ss6.html#title'>AMS Special Session on From Hyperelliptic to Superelliptic Curves</a><br/>
+  University of Michigan, Oct. 20-21, 2018
+
+- UGA-SWAG: Georgia Summer Workshop in Algebraic Geometry<br/>
+  University of Georgia, Aug. 26-29, 2016
+
+- Géométrie Algébrique en Liberté XX<br/>
+  Grenoble, France, June 18-22, 2012
+
+- Géométrie Algébrique en Liberté XIX<br/>
+  Berlin, Germany, July 18-22, 2011
