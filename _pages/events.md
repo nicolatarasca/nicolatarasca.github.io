@@ -13,5 +13,3 @@ nav_order: 4
 
 - <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics Workshop</a><br/>
   VCU, December 2023
-
-  
