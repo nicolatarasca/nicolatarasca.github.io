@@ -24,3 +24,43 @@ Teaching at Virginia Commonwealth University:
 - Introduction to Mathematical Reasoning, MATH 300 (spring 2020)
 
 - Mathematical Structures, MATH 211 (falls 2020, 2022 (x2))
+
+Teaching at Rutgers University:
+
+- Linear Algebra (two sections in spring 2019)
+
+- Introductory Topology I (fall 2018)
+
+- Intro to Linear Algebra (two sections in spring 2018)
+
+- Multivariate Calculus (fall 2017)
+
+Teaching at the University of Georgia:
+
+- Calculus II for Science and Engineering (spring 2017)
+
+Teaching at the University of Utah:
+
+- Engineering Calculus II (spring 2016)
+
+- Engineering Calculus I (fall 2015)
+
+- Calculus II (spring 2015)
+
+- Calculus I (fall 2014)
+
+- Introduction to Differential Equations (spring 2014)
+
+- Accelerated Engineering Calculus II (fall 2013)
+
+Teaching at the Leibniz University in Hannover, Germany:
+
+- Teaching assistant for Mathematics 2 for Engineers (spring 2013, spring 2012)
+
+- Teaching assistant for Mathematics 1 for Engineers (winter 2013, winter 2012)
+
+Teaching at the Humboldt University in Berlin, Germany:
+
+- Problem sessions (Übung) for Algebraic Geometry I (winter 2010)
+
+- Tutor of the Berlin Mathematical School Team for the International Mathematics Competition held in Budapest, Hungary (spring 2009)
