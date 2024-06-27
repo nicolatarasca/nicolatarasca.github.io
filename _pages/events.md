@@ -16,7 +16,7 @@ nav_order: 4
 
 - <a href='https://sites.google.com/vcu.edu/gtmp/festival/rgm-2023?authuser=0'>Richmond Geometry Meeting 2023</a><br/>
   VCU, June 2023<br/>
-  supported by NSF grant DMS-2240741
+  supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>
 
 - <a href='https://sites.google.com/vcu.edu/gtmp/festival/rgf-2022?authuser=0'>Richmond Geometry Festival 2022</a><br/>
   May 2022, virtually
