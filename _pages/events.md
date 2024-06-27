@@ -4,7 +4,7 @@ permalink: /events/
 title: events
 description: events I coorganized in reversed chronological order.
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 - <a href='https://math.vcu.edu/rgm/'>Richmond Geometry Meeting 2024</a><br/>
