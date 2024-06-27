@@ -46,8 +46,8 @@ I coorganize the following events:
 
 - the <a href='https://math.vcu.edu/rgm/'>Richmond Geometry Meeting</a><br/>
   an annual event since 2021<br/>
-  the <a href='https://math.vcu.edu/rgm/'>2024 edition</a> is supported by NSF grant DMS-2349810<br/>
-  the 2023 edition was supported by NSF grant DMS-2240741
+  the <a href='https://math.vcu.edu/rgm/'>2024 edition</a> is supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a><br/>
+  the 2023 edition was supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>
 
 - the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
   the 2024 edition of the MAAGC workshop will be supported by NSF grant DMS-2408985
