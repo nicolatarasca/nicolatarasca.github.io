@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Teaching at Virginia Commonwealth University:
+<b>Teaching at Virginia Commonwealth University</b>
 
 - Bridge to Modern Analysis, MATH 507 (falls 2022, 2021, 2020)
 
@@ -25,7 +25,7 @@ Teaching at Virginia Commonwealth University:
 
 - Mathematical Structures, MATH 211 (falls 2020, 2022 (x2))
 
-Teaching at Rutgers University:
+<b>Teaching at Rutgers University</b>
 
 - Linear Algebra (two sections in spring 2019)
 
@@ -35,11 +35,11 @@ Teaching at Rutgers University:
 
 - Multivariate Calculus (fall 2017)
 
-Teaching at the University of Georgia:
+<b>Teaching at the University of Georgia</b>
 
 - Calculus II for Science and Engineering (spring 2017)
 
-Teaching at the University of Utah:
+<b>Teaching at the University of Utah</b>
 
 - Engineering Calculus II (spring 2016)
 
@@ -53,13 +53,13 @@ Teaching at the University of Utah:
 
 - Accelerated Engineering Calculus II (fall 2013)
 
-Teaching at the Leibniz University in Hannover, Germany:
+<b>Teaching at the Leibniz University in Hannover, Germany</b>
 
 - Teaching assistant for Mathematics 2 for Engineers (spring 2013, spring 2012)
 
 - Teaching assistant for Mathematics 1 for Engineers (winter 2013, winter 2012)
 
-Teaching at the Humboldt University in Berlin, Germany:
+<b>Teaching at the Humboldt University in Berlin, Germany</b>
 
 - Problem sessions (Übung) for Algebraic Geometry I (winter 2010)
 
