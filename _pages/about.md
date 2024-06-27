@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Research interests:
+<b>Research interests</b>
 
 - the geometry of algebraic curves, abelian varieties, and their moduli spaces
 
