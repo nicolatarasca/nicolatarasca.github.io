@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+- <b>Higher rannk series and root puzzles for plumbed 3-manifolds</b><br/>
+  Joint Meeting AMS-UMI, Italy, July 2024<br/>
+  <a href='https://nicolatarasca.github.io/assets/pdf/lectures/HRLCLecturePalermo.pdf'>notes</a>
+
 - <b>Coinvariants of metaplectic representations and abelian varieties</b><br/>
   AG@PUI virtual seminar, December 2023<br/>
   <a href='https://fordham.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fd6822d-5568-49f0-9cf8-b0cf01888a9f'>video</a>, <a href='https://nicolatarasca.github.io/assets/pdf/lectures/AVVA_AG@PUI.pdf'>notes</a>
