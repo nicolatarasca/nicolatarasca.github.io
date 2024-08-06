@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-- <b>Higher rannk series and root puzzles for plumbed 3-manifolds</b><br/>
+- <b>Higher rank series and root puzzles for plumbed 3-manifolds</b><br/>
   Joint Meeting AMS-UMI in Palermo, Italy, July 2024<br/>
   <a href='https://nicolatarasca.github.io/assets/pdf/lectures/HRLCLecturePalermo.pdf'>notes</a>
 
