@@ -21,6 +21,7 @@ nav_order: 4
 
 - <b>Geometry of VOAs on moduli of curves</b><br/>
   Seminario Nacional de Geometría Algebraica en Línea, Mexico, May 2022<br/>
+  <a href='https://drive.google.com/file/d/1dsLf5sBqLyRSxavkuw4wVQFJ311-3gHI/view?usp=sharing'>video</a>, 
   <a href='https://nicolatarasca.github.io/assets/pdf/lectures/Geometry_of_VOA_on_moduli_of_curves.pdf'>notes</a>
 
 - <b>Geometric loci in moduli spaces of curves</b><br/>
