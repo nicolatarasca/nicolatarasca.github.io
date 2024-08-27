@@ -18,6 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Member of the VCU <a href='https://geometryvcu.github.io'>Geometry Group</a>
+
 <b>Research Interests</b>
 
 - the geometry of algebraic curves, abelian varieties, and their moduli spaces
@@ -36,7 +38,7 @@ I coorganize the following seminar series (most talks are now live-streamed onli
 
 - the <a href='https://geometryvcu.github.io/seminarfuture/'>Geometry Seminar</a> at VCU
 
-- the Student Geometry Seminar at VCU
+- the <a href='https://geometryvcu.github.io/studentseminarfuture/'>Student Geometry Seminar</a> at VCU
 
 - the <a href='https://researchseminars.org/seminar/VCUcolloq'>Math Colloquium Series</a> at VCU
 
