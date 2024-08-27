@@ -36,11 +36,11 @@ Research currently supported by the NSF grant <a href='https://www.nsf.gov/award
 
 I coorganize the following seminar series (most talks are now live-streamed online):
 
-- the <a href='https://geometryvcu.github.io/seminarfuture/'>Geometry Seminar</a> at VCU
+- the <a href='https://geometryvcu.github.io/seminarfuture/'>geometry seminar</a> at VCU
 
-- the <a href='https://geometryvcu.github.io/studentseminarfuture/'>Student Geometry Seminar</a> at VCU
+- the <a href='https://geometryvcu.github.io/studentseminarfuture/'>student geometry seminar</a> at VCU
 
-- the <a href='https://researchseminars.org/seminar/VCUcolloq'>Math Colloquium Series</a> at VCU
+- the <a href='https://researchseminars.org/seminar/VCUcolloq'>math colloquium series</a> at VCU
 
 <b>Events</b>
 
