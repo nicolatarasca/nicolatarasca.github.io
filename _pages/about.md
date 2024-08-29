@@ -47,7 +47,7 @@ I coorganize the following events:
 - the <a href='https://geometryvcu.github.io/rgmmain/'>Richmond Geometry Meeting</a><br/>
   an annual event since 2021<br/>
   the <a href='https://geometryvcu.github.io/rgm2024/'>2024 edition</a> was supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a><br/>
-  the <a href='https://geometryvcu.github.io/rgm2023/'>2023 edition</a> was supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a>
+  the <a href='https://geometryvcu.github.io/rgm2023/'>2023 edition</a> was supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240741'>DMS-2240741</a><br/>
   The first two editions were held virtually in <a href='https://geometryvcu.github.io/rgm2021/'>2021</a> and <a href='https://geometryvcu.github.io/rgm2022/'>2022</a>.
 
 - the <a href='https://www.maagc.info/richmond-2023'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
