@@ -55,6 +55,6 @@ I coorganize the following events:
 
 - <a href='https://ricerca.mat.uniroma3.it/users/moduli/harmonies/index.html'>Harmonies in Moduli Spaces - in occasion of Lucia Caporaso's birthday</a><br/>
   Università Roma Tre, Italy, June 9-13, 2025
-  
+
 - the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
   a math camp and mathematics education research study designed for local middle school students
