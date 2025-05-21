@@ -55,7 +55,8 @@ I coorganize the following events:
   the <a href='https://www.maagc.info/cuny-2025'>2025 edition</a> will be held at the CUNY Graduate Center in Manhattan, NY, March 21-22, 2025
 
 - <a href='https://ricerca.mat.uniroma3.it/users/moduli/harmonies/index.html'>Harmonies in Moduli Spaces - in occasion of Lucia Caporaso's birthday</a><br/>
-  Università Roma Tre, Italy, June 9-13, 2025
+  Università Roma Tre, Italy, June 9-13, 2025<br/>
+  supported by NSF grant <a href=''>DMS-2448330</a>
 
 - the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
   a math camp and mathematics education research study designed for local middle school students
