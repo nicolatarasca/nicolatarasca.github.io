@@ -9,7 +9,7 @@ nav_order: 6
 
 - <a href='https://ricerca.mat.uniroma3.it/users/moduli/harmonies/index.html'>Harmonies in Moduli Spaces - in occasion of Lucia Caporaso's birthday</a><br/>
   Università Roma Tre, Italy, June 9-13, 2025<br/>
-  supported by NSF grant <a href=''>DMS-2448330</a>
+  supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2448330'>DMS-2448330</a>
 
 - <a href='https://www.maagc.info/cuny-2025'>Mid-Atlantic Algebra, Geometry, and Combinatorics Workshop (MAAGC)</a><br/>
   The CUNY Graduate Center in Manhattan, NY, March 21-22, 2025<br/>
