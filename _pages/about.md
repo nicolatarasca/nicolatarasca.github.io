@@ -54,7 +54,7 @@ I coorganize the following events:
 
 - the <a href='https://www.maagc.info/cuny-2025'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
   the MAAGC workshop from 2024-2026 is supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408985&HistoricalAwards=false'>DMS-2408985</a><br/>
-  the <a href='https://www.maagc.info/cuny-2025'>2025 edition</a> will be held at the CUNY Graduate Center in Manhattan, NY, March 21-22, 2025
+  the <a href='https://www.maagc.info/cuny-2025'>2025</a> edition was held at the CUNY Graduate Center in Manhattan, NY, March 21-22, 2025
 
 - <a href='https://ricerca.mat.uniroma3.it/users/moduli/harmonies/index.html'>Harmonies in Moduli Spaces - in occasion of Lucia Caporaso's birthday</a><br/>
   Università Roma Tre, Italy, June 9-13, 2025<br/>
