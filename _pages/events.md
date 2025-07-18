@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-- Richmond Geometry Meeting 2025<br/>
+- <a href='https://geometryvcu.github.io/rgm2025/'>Richmond Geometry Meeting 2025</a><br/>
   VCU, September 2025<br/>
   supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528113'>DMS-2528113</a>
 
