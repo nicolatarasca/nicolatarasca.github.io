@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+- <b>Series invariants of plumbed 3-manifolds</b><br/>
+  Summer Research Institute, Fort Collins, CO, July 2025<br/>
+<a href='https://nicolatarasca.github.io/assets/pdf/lectures/MT2 - SRI 2025 - rep.pdf'>slides</a>
+
 - <b>Coinvariants of metaplectic representations and abelian varieties</b><br/>
   Rocky Mountain Representation Theory Seminar, December 2024<br/>
   <a href='https://www.youtube.com/watch?v=kE_8D7YnQfY'>video</a><br/>
