@@ -33,7 +33,7 @@ and a <a href='https://www.simonsfoundation.org/grant/travel-support-for-mathema
 
 <b>Seminars</b>
 
-I coorganize the following seminar series (most talks are now live-streamed online):
+I coorganize the following seminar series (most talks are live-streamed online):
 
 - the <a href='https://geometryvcu.github.io/seminarfuture/'>geometry seminar</a> at VCU
 
