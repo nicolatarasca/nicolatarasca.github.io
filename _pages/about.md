@@ -43,7 +43,7 @@ I coorganize the following seminar series (most talks are live-streamed online):
 
 <b>Events</b>
 
-I coorganize the following events:
+I have recently coorganized the following events (see the <a href='https://nicolatarasca.github.io/events/'>events</a> page for more):
 
 - the <a href='https://geometryvcu.github.io/rgmmain/'>Richmond Geometry Meeting</a><br/>
   an annual event at VCU since 2021<br/>
