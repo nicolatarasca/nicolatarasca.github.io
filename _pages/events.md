@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+- <a href='https://geometryvcu.github.io/rgd2026/'>Richmond Geometry Day in Spring 2026</a><br/>
+  VCU, February 2026<br/>
+  supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a>
+
 - <a href='https://geometryvcu.github.io/rgm2025/'>Richmond Geometry Meeting 2025</a><br/>
   VCU, September 2025<br/>
   supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528113'>DMS-2528113</a>
