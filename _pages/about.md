@@ -54,7 +54,7 @@ I have recently coorganized the following events (see the <a href='https://nicol
 
 - the <a href='https://geometryvcu.github.io/rgd2026/'>Richmond Geometry Day</a><br/>
   an occasional workshop at VCU<br/>
-  the <a href='https://geometryvcu.github.io/rgd2026/'>2026</a> edition will be supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a><br/>
+  the <a href='https://geometryvcu.github.io/rgd2026/'>Spring 2026</a> edition will be supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2349810'>DMS-2349810</a><br/>
 
 - the <a href='https://www.maagc.info/cuny-2025'>Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC)</a><br/>
   the MAAGC workshop from 2024-2026 is supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408985&HistoricalAwards=false'>DMS-2408985</a><br/>
