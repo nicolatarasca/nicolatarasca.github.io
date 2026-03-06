@@ -68,3 +68,7 @@ I have recently coorganized the following events (see the <a href='https://nicol
 
 - the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
   a math camp and mathematics education research study designed for local middle school students
+
+<b>PhD Students</b>
+
+Bryson Owens (current)
