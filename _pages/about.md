@@ -67,7 +67,9 @@ I have recently coorganized the following events (see the <a href='https://nicol
   supported by NSF grant <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2448330'>DMS-2448330</a>
 
 - the <a href='https://news.vcu.edu/article/2023/06/twisted-in-knots-thats-a-good-thing-at-vcu-geometry-camp-for-middle-schoolers'>Geometry Summer Camp</a><br/>
-  a math camp and mathematics education research study designed for local middle school students
+  a math camp and mathematics education research study designed for local middle school students<br/>
+  here is the <a href='https://math.vcu.edu/events/event-items/twists-turns-and-trajectories-the-shape-of-science-summer-camp.html'>2026</a> edition
+  
 
 <b>PhD Students</b>
 
