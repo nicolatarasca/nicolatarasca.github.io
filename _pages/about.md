@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor<br/> <a href='https://math.vcu.edu'>Department of Mathematics and Applied Mathematics</a><br/> <a href='https://www.vcu.edu'>Virginia Commonwealth University</a><br/> Member of the VCU <a href='https://geometryvcu.github.io'>Geometry Group</a>
+subtitle: Associate Professor<br/> <a href='https://math.vcu.edu'>Department of Mathematics and Statistics</a><br/> <a href='https://www.vcu.edu'>Virginia Commonwealth University</a><br/> Member of the VCU <a href='https://geometryvcu.github.io'>Geometry Group</a>
 
 profile:
   align: right
