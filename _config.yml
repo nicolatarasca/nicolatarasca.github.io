@@ -7,8 +7,7 @@ first_name: Nicola
 last_name: Tarasca
 email: tarascan@vcu.edu
 description: >
-  Nicola Tarasca - algebraic geometer at Virginia Commonwealth University working on moduli spaces, vertex algebras, and quantum invariants
-  # the ">" symbol means to ignore newlines until "footer_text:"
+  Nicola Tarasca - algebraic geometer at Virginia Commonwealth University working on moduli spaces, vertex algebras, and quantum invariants # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
