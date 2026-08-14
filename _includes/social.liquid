@@ -1,11 +1,11 @@
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
-{% if site.orcid_id %}
-  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
-{% endif %}
 {% if site.arxiv_name %}
   <a href="https://arxiv.org/search/?query={{ site.arxiv_name }}&searchtype=author&source=header" title="arXiv"><i class="ai ai-arxiv"></i></a>
+{% endif %}
+{% if site.scholar_userid %}
+  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 {% endif %}
 {% if site.mathscinet_name %}
   <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/{{ site.mathscinet_name }}" title="MathSciNet" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-square-root-variable"></i></a>
@@ -13,14 +13,14 @@
 {% if site.zbmath_name %}
   <a href="https://zbmath.org/authors/{{ site.zbmath_name }}" title="zbMATH" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-book-open"></i></a>
 {% endif %}
+{% if site.orcid_id %}
+  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+{% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
 {% endif %}
 {% if site.whatsapp_number %}
   <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
-{% endif %}
-{% if site.scholar_userid %}
-  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 {% endif %}
 {% if site.semanticscholar_id %}
   <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
