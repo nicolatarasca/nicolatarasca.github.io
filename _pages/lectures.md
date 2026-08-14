@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /lectures/
-title: lectures
-description: lecture notes and videos
+title: selected lectures
+description: selected lecture notes and videos
 nav: true
 nav_order: 4
 ---
