@@ -17,9 +17,9 @@ nav_order: 5
 
 - Advanced Calculus, MATH 407 (springs 2021 (x2), 2022 (x2), 2024)
 
-- Multivariate Calculus, MATH 307 (fall 2025, spring 2025, fall 2019 (x2))
+- Multivariate Calculus, MATH 307 (fall 2026, fall 2025, spring 2025, fall 2019 (x2))
 
-- Introduction to Mathematical Reasoning, MATH 300 (spring 2025, fall 2024, spring 2020)
+- Introduction to Mathematical Reasoning, MATH 300 (fall 2026, spring 2025, fall 2024, spring 2020)
 
 - Mathematical Structures, MATH 211 (falls 2020, 2022 (x2))
 
